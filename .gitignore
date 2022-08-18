@@ -79,3 +79,4 @@ config.yaml
 gradle/
 /gradlew
 gradlew.bat
+*.json
